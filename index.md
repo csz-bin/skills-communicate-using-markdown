@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Hello, csz and bin!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
